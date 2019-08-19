@@ -1,0 +1,4 @@
+Cuando te salga el error
+
+Call to a member function appendRow() on null 
+crea un nuevo excel y pegalo
